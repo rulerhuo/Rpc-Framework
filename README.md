@@ -1,2 +1,2 @@
-# Rpc-Framework 在master分支
+# Rpc-Framework
 a simple rpc framework
